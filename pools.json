@@ -16,7 +16,7 @@
       "name": "VIP Pool",
       "link": "https://vippool.net/"
     },
-    "NLPOOL.NL": {
+    "NLPool.NL": {
       "name": "NLPOOL",
       "link": "https://www.nlpool.nl/"
     },
@@ -59,6 +59,10 @@
     "/goisgod/": {
       "name": "Go is God",
       "link": "https://go-is-god.electrum-mona.org/"
+    },
+    "/LeyWaPool/": {
+      "name": "LeyWaPool",
+      "link": "https://leywapool.com/"
     }
   },
   "payout_addresses": {
