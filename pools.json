@@ -59,10 +59,6 @@
     "/goisgod/": {
       "name": "Go is God",
       "link": "https://go-is-god.electrum-mona.org/"
-    },
-    "/MiningBeaver/": {
-      "name": "MiningBeaver",
-      "link": "https://miningbeaver.ga/"
     }
   },
   "payout_addresses": {
